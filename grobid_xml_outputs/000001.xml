@@ -1,0 +1,1324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The evolution of microstructures and high temperature properties of AlxCo1.5CrFeNi1.5Tiy high entropy alloys</title>
+				<funder ref="#_nxJgHf3 #_fvFV4kD">
+					<orgName type="full">Ministry of Science and Technology, Taiwan</orgName>
+					<orgName type="abbreviated">.</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="2015-09-09">9 September 2015</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Yao-Jen</forename><surname>Chang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Materials Science and Engineering</orgName>
+								<orgName type="institution">National Tsing Hua University</orgName>
+								<address>
+									<postCode>30013</postCode>
+									<settlement>Hsinchu</settlement>
+									<country key="TW">Taiwan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">An-Chou</forename><surname>Yeh</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Materials Science and Engineering</orgName>
+								<orgName type="institution">National Tsing Hua University</orgName>
+								<address>
+									<postCode>30013</postCode>
+									<settlement>Hsinchu</settlement>
+									<country key="TW">Taiwan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The evolution of microstructures and high temperature properties of AlxCo1.5CrFeNi1.5Tiy high entropy alloys</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Alloys and Compounds</title>
+						<title level="j" type="abbrev">Journal of Alloys and Compounds</title>
+						<idno type="ISSN">0925-8388</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">653</biblScope>
+							<biblScope unit="page" from="379" to="385"/>
+							<date type="published" when="2015-09-09">9 September 2015</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">D2F1603119DDFDF23181E97A9BF4F051</idno>
+					<idno type="DOI">10.1016/j.jallcom.2015.09.042</idno>
+					<note type="submission">Received 26 June 2015 Received in revised form 28 August 2015 Accepted 6 September 2015</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2025-11-08T17:27+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>High entropy alloys Precipitation strengthening Oxidation resistance Hardness</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The effects of Al and Ti contents on the microstructures and high temperature properties of Al x- Co 1.5 CrFeNi 1.5 Ti y (x, y values in molar ratio, x þ y ¼ 0.5) high entropy alloys have been investigated. With an increase in Al content and a decrease in Ti concentrations, precipitated phases in the FCC high entropy g matrix can evolve from h to g 0 to b phases. Some of these alloys can possess high hardness values at elevated temperatures due to g 0 precipitations, and continuous Cr 2 O 3 can form on the surfaces of these alloys for protection against oxidation. This study can serve as a guideline for future high entropy alloy design for high temperature applications.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Without a based element, high entropy alloys can possess a variety of crystal structures, microstructures, and properties. Examples include FCC high entropy alloys, such as <ref type="bibr">CoCrFeMnNi [1e3]</ref> and <ref type="bibr">AlCoCrCuFeNi [4e6]</ref>; BCC high entropy alloys, such as WNbMoTaV <ref type="bibr">[7,</ref><ref type="bibr" target="#b9">8]</ref> and <ref type="bibr">HfNbTaTiZr [9e11]</ref>. High entropy alloys can exhibit high wear resistance <ref type="bibr" target="#b13">[12,</ref><ref type="bibr" target="#b14">13]</ref>, high hardness <ref type="bibr" target="#b14">[13,</ref><ref type="bibr" target="#b15">14]</ref>, significant high temperature compressive strength <ref type="bibr" target="#b9">[8,</ref><ref type="bibr" target="#b11">10]</ref>, and good corrosion resistance <ref type="bibr" target="#b16">[15,</ref><ref type="bibr" target="#b17">16]</ref>. High entropy alloys can be single phase alloys [1e3, <ref type="bibr">7,</ref><ref type="bibr" target="#b18">17]</ref>, or they can contain several types of intermetallic phases, such as b <ref type="bibr" target="#b19">[18,</ref><ref type="bibr" target="#b20">19]</ref>, Laves <ref type="bibr" target="#b21">[20,</ref><ref type="bibr" target="#b22">21]</ref> and s <ref type="bibr" target="#b20">[19,</ref><ref type="bibr" target="#b23">22]</ref>. Furthermore, high entropy alloys can exhibit sluggish diffusion effect to enhance the thermal stability of the microstructure <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b24">23,</ref><ref type="bibr" target="#b25">24]</ref>.</p><p>Phases formed in multi-components alloy systems can be detrimental or beneficial to properties. For conventional superalloys, a type of high temperature phase instability associated with topologically closed packed (TCP) phases formation can cause deterioration on mechanical properties <ref type="bibr" target="#b26">[25,</ref><ref type="bibr" target="#b27">26]</ref>, this is due to the softening of the g matrix resulting from depletion in strengthening elements such as W, Cr, Mo or Re <ref type="bibr" target="#b26">[25,</ref><ref type="bibr" target="#b28">27]</ref>. On the other hand, the common strengthening precipitate in FeeNi and Ni-based superalloys is L1 2 g 0 <ref type="bibr" target="#b29">[28,</ref><ref type="bibr" target="#b30">29]</ref>. g 0 precipitates are coherently embedded in g matrix, and it can hinder the motion of dislocations effectively <ref type="bibr" target="#b31">[30]</ref>.</p><p>Moreover, g 0 particles at grain boundary can hinder grain boundary migration during thermal exposure <ref type="bibr" target="#b32">[31]</ref>. In our previous work <ref type="bibr" target="#b33">[32]</ref>, Co 1.5 CrFeNi 1.5 Ti 0.5 high entropy alloy can also contain g 0 precipitates, but the g 0 phase in this alloy is metastable and can transform into h phase. h phase is known to be brittle with little strain tolerance <ref type="bibr" target="#b34">[33]</ref>, so the transformation of g 0 to h phase should be avoided. This work aims to optimize Co 1.5 CrFeNi 1.5 Ti 0.5 high entropy alloy by studying the effect of Ti substitution by Al in Al x- Co 1.5 CrFeNi 1.5 Ti y (x, y values in molar ratio, x þ y ¼ 0.5); this is to increase the thermal stability of g 0 phase by substituting the h forming Ti by Al <ref type="bibr" target="#b33">[32,</ref><ref type="bibr" target="#b34">33]</ref>. High temperature properties in terms of hardness and oxidation behaviors are presented and discussed. The present research can help the future alloy design of high entropy alloys toward high temperature structural applications.  <ref type="table" target="#tab_0">1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Experimental methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The compositions of interest in this work have included</head><p>Samples of all alloys were prepared by arc-melting process in an argon atmosphere. As-cast samples were solution heat treated at 1150 C for 6 h followed by water quench, then aged at various temperatures from 650 C to 900 C to precipitate g 0 particles. All specimens were etched by 70% H 3 PO 4 , and microstructures were analyzed by Hitachi SU8010 scanning electron microscope (SEM) with an energy dispersive spectrometer (EDS). The volume fraction and size of g 0 particles were estimated by ImageJ software. Heat treated samples were examined by transmission electron microscope (Tecnai F30 TEM) under 300 kV; specimens were prepared by twin-jet polishing in a solution of 10% HClO 4 in CH 3 OH. X-ray diffractometer (SHIMADZU XRD-6000) equipped with Cu (Ka radiation ¼ 1.5406 Å) target was utilized to analyze phase constituents on samples with plate geometry.</p><p>Pyris Diamond TG/DTA was used to examine the thermal properties of samples of 30 mg in an Al 2 O 3 crucible at temperatures from 25 to 1420 C with a heating rate of 10 C/min and 200 sccm of Ar flow. To measure the compositions of g and g 0 phases, microstructures had been coarsened by strain aging method, which was accomplished by firstly cold work on as-homogenized samples, then aged at 750 C for 200 h to allow the coarsening of g and g 0 phases for EDS analysis.</p><p>Although alloys in present study are multi-phases HEA, precipitates can all be solutioned into single phase FCC matrix above the solvus temperatures of intermetallics. By referring to Boltzmann's hypothesis, the mixing entropy, DS mix , of a n-element random solid-solution state can be calculated <ref type="bibr" target="#b35">[34]</ref>, and the DS mix for each alloy is presented in Table <ref type="table" target="#tab_0">1</ref>:</p><formula xml:id="formula_0">DS mix ¼ ÀRðX A lnX A þX B lnX B þ… þ X n lnX n Þ</formula><p>where X A is the molar ratio of A element, X B is the molar ratio of B element, etc. R is the gas constant (8.314 J/K mole).</p><p>Hardness of samples were measured by a high temperature Vickers hardness tester (Model AVK-HF, Akashi) equipped with a vacuum chamber and a heating unit. All specimens were tested at room temperature and from 500 C to 1000 C at an interval of 100 C under the argon pressure close to 1 atm. A load of 49 N and a dwell time of 15 s was used. The heating rate of the sample was 10 C/min and three indentations were made to get an average value. The indentor material was diamond, and indentation positions were all within individual grains. Isothermal oxidation tests were conducted at 900 C for 200 h. All specimen surfaces were grinded by #1200 sand paper before oxidation test. The oxidation weight gains of specimens were measured by digital weighing scale, and cross sections were examined by SEM and EDS analysis. A sample of Inconel 718 sample, which was processed by the standard heat treatment (as solutioned þ 720 C/8 h (furnace cooling) þ 620 C/8 h (air cooling)) was used for comparative study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results and discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Microstructure evolution</head><p>Equilibrium phase constituents in these high entropy alloys can be described by Thermo-Calc (TCNI5 database) <ref type="bibr" target="#b36">[35]</ref>, Fig. <ref type="figure" target="#fig_2">1(a)</ref>. With an increase in Al content, the microstructures of these alloys can However, microstructure observations on samples aged at 750 C for 50 h have revealed that main phase constituents in Ti 05 are g and g 0 , Fig. <ref type="figure" target="#fig_0">2</ref>(a), which indicates sluggish g 0 to h phase transformation in Ti 05 . After Ti 05 has been aged at 900 C for 50 h, plate-like h can be observed, Fig. <ref type="figure" target="#fig_3">2(b)</ref>. With an increase in Al content, phase stability of g 0 can be enhanced, the as heat treated Al 01 Ti 04 and Al 02 Ti 03 can exhibit stable g and g 0 from 750 C up to 900 C, Fig. <ref type="figure" target="#fig_3">2(c</ref>) to (f). Although h has been presented as an equilibrium phase in Al 01 Ti 04 according to Fig. <ref type="figure" target="#fig_2">1</ref>, sluggish diffusion can   <ref type="table" target="#tab_1">2</ref>, the entropy term in g 0 phase is increased with increasing Al substitution to Ti, this can destabilize g 0 by decreasing the solvus temperature of g 0 , Table <ref type="table" target="#tab_0">1</ref>. The increase in Al content has prevented the h phase formation, hence the thermal stability of g 0 is improved in this respect. Comparing to conventional Ni-based superalloys, these high entropy alloys contain relatively high level of Fe content, however it can possess stable gg 0 microstructure at high temperatures.</p><formula xml:id="formula_1">evolve from h þ g to h þ g þ g 0 to g þ g 0 to b þ g þ g 0 to b þ g for</formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Thermal properties</head><p>Fig. <ref type="figure" target="#fig_5">4</ref> shows the results of DTA analysis on samples aged at 900 C for 50 h, and the g 0 solvus temperatures of heat treated samples are also listed in Table <ref type="table" target="#tab_0">1</ref>. The solvus temperatures of h and g 0 phases, as well as the solidus temperatures have been verified</p><p>with microstructure analysis on samples heat treated above and    below the temperatures given in Table <ref type="table" target="#tab_0">1</ref>. Al addition can eliminate h phase formation, and allows the equilibrium g 0 solvus temperature to peak at 1010 C, Fig. <ref type="figure" target="#fig_2">1</ref>. However, higher Al/Ti ratio can decrease the solvus temperature of non-equilibrium g 0 , increase the solidus, and induce the formation of detrimental b phase, Fig. <ref type="figure" target="#fig_5">4</ref>. DTA has not been able to detect h solvus temperatures in Al 01 Ti 04 , which has been aged at 900 C for 50 h, since diffusion in high entropy alloy is too sluggish to complete g 0 to h phase transformation during DTA analysis. With an increase in Al content, the heat treatment window appears to be increased. The heat treatment window between equilibrium h solvus and solidus of Al 01 Ti 04 is around 190 C, which is actually similar to that of Inconel 718, i.e.</p><p>185 C (the difference between d solvus and solidus) <ref type="bibr" target="#b37">[36]</ref>. The heat treatment window for Al 02 Ti 03 is 279 C. Although the substitution of Ti by Al can decrease the g 0 solvus, the increase in solidus temperature can enlarge the heat treatment window, which will be beneficial for thermomechanical processing.</p><p>The size and volume fractions of g 0 precipitates after various ageing conditions from 750 C to 900 C for 50 h are shown in Fig. <ref type="figure" target="#fig_6">5</ref>, data of ageing temperatures below 750 C are not listed since they are under-aged with g 0 size smaller than 10 nm. It appears that an increase in Al/Ti ratio can increase the size of g 0 and decrease its volume fraction. Furthermore, ageing at 800 C and 900 C can also increase the size of g 0 particles, and their volume fractions can be decreased as ageing temperatures are getting closer to g 0 solvus temperatures. On the other hand, higher Ti content renders higher volume fraction of g 0 and smaller size of g 0 .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Hardness</head><p>Fig. <ref type="figure" target="#fig_7">6</ref>(a) presents the room temperature hardness values of samples subjected to different ageing temperatures, and the results suggest that 750 C is the optimum temperature for precipitation strengthening. All alloys have become harder after aging heat treatments, and the peak hardness can be achieved by the 750 C ageing; alloys become softer when aging temperatures are above 750 C. The softening phenomenon can be attributed by a decrease in the volume fraction of g 0 as shown in Fig. <ref type="figure" target="#fig_6">5(b)</ref>. Furthermore, the sharp drop in strength of Ti 05 can be a direct result of g 0 to h phase transformation at 900 C, which has been prevented by Al substitutions in other alloys, hence hardness values of Al 01 Ti 04 and Al 02 Ti 03 can be higher than that of Ti 05 aged at 900 C.</p><p>Hardness values from room temperature to 1000 C are summarized in Fig. <ref type="figure" target="#fig_7">6(b</ref>); all alloys have been aged at 750 C for 50 h before hardness tests. Interestingly, Ti 05 exhibits the highest hardness among all alloys. The unstable g 0 in Ti 05 can transform to brittle h at temperatures beyond 900 C, however phase instability associated with h formation may not have much effect on the high temperature hardness tests due to short testing time. As Ti is being substituted by Al, the hardness of the alloy begins to drop. At room temperature, Al 01 Ti 04 and Inconel 718 have similar hardness values; Al 01 Ti 04 outperforms Inconel 718 at higher temperatures. Al 02 Ti 03 and Al 03 Ti 02 are softer than Inconel 718 up to 800 C, interestingly, both of them outperform Inconel 718 at higher temperatures. The strengthening phase in Inconel 718 is g 00 , which can transform into detrimental d phase at temperatures beyond 650 C <ref type="bibr" target="#b38">[37,</ref><ref type="bibr" target="#b39">38]</ref>, so hardness of g 0 bearing Al 02 Ti 03 and Al 03 Ti 02 can surpass that of Inconel 718 at higher temperatures. Although 1000 C is around the g 0 solvus temperatures of Al 02 Ti 03 and Al 03 Ti 02 , the high temperature hardness testing times are again too short to fully dissolve all g 0 into the matrix, hence g 0 particles can still be present to provide strengthening. By referring to the physical metallurgy of g 0 bearing superalloys <ref type="bibr" target="#b30">[29,</ref><ref type="bibr" target="#b32">31,</ref><ref type="bibr" target="#b40">39,</ref><ref type="bibr" target="#b41">40]</ref>, in addition to the core effects of high entropy alloys <ref type="bibr" target="#b42">[41]</ref>, the strength of these g 0 bearing HEA can be affected by properties of g and g 0 , including phase stability, antiphase boundary energy (APB), stacking fault energy, lattice misfit and volume fraction of g 0 . High temperature hardness tests in present study reflect mainly the contributions from the intrinsic strength of g and g 0 , and volume fraction of g 0 . The changes in g 0 volume fractions agree with the high temperature hardness test results, Fig. <ref type="figure" target="#fig_6">5</ref>(b) and Fig. <ref type="figure" target="#fig_7">6(b</ref>). According to Table <ref type="table" target="#tab_1">2</ref>, The compositions of g and g 0 in high entropy alloys are highly alloyed comparing to those of conventional superalloys <ref type="bibr" target="#b43">[42]</ref>, furthermore, the high level of Ti content in g 0 can increase the APB energy significantly to hinder the movement of dislocations <ref type="bibr" target="#b40">[39,</ref><ref type="bibr" target="#b44">43]</ref>, hence Ti 05 and Al 01 Ti 04 can exhibit higher resistance against high temperature indentation comparing to Al 02 Ti 03 .</p><p>For long term structural application at elevated temperatures, phase stability can be one of the most critical requirements. Future work will investigate creep resistances of these alloys; high entropy alloys can possess low stacking fault energy <ref type="bibr" target="#b45">[44]</ref> and sluggish diffusion <ref type="bibr" target="#b0">[1]</ref>, both can be beneficial for high temperature creep resistance. Future work will also include the construction of timetemperature-transformation diagrams for phase transformation in these high entropy alloys.   <ref type="bibr" target="#b47">[46]</ref> to increase the Cr activity and promote the formation of protective Cr 2 O 3 . However, sluggish diffusion may result delayed formation of continues chromia layer, and high Ti content can also induce the formation of TiO 2 attributing to an increase in weight gain initially. Nevertheless, once continuous layer of Cr 2 O 3 is formed, the oxidation can be hindered in high entropy alloys. In future alloy design, Cr and Al activity should be considered for more rapid formation of protective oxides.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Conclusions</head><p>The present study has investigated the effects of Al and Ti contents on the microstructures and high temperature properties of Al x Co 1.5 CrFeNi 1.5 Ti y (x, y values in molar ratio, x þ y ¼ 0.5) high entropy alloys. Al substitution to part of Ti can eliminate detrimental h and enhance the thermal stability of g 0 . These alloys can have good hardness from room temperature to high temperatures. Furthermore, continuous Cr 2 O 3 can form to provide protection against high temperature oxidation. This work can serve as a guideline for future high entropy alloy design for high temperature applications.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>2</head><label>2</label><figDesc>Co 1.5 CrFeNi 1.5 Ti 0.3 (Al 02 Ti 03 ), and Al 0.3 Co 1.5 CrFeNi 1.5 Ti 0.2 (Al 03 Ti 02 ), Table</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>Fig. 1(b).However, microstructure observations on samples aged at 750 C for 50 h have revealed that main phase constituents in Ti 05</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. (a) Phase diagram of Al x Co 1.5 CrFeNi 1.5 Ti y with varying Al content. (b) XRD analysis on high entropy alloys after 900 C/50 h aging.</figDesc><graphic coords="2,304.84,341.92,245.01,376.38" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. Microstructures after aging for 50 h (a) Ti 05 at 750 C, (b) Ti 05 at 900 C, (c) Al 01 Ti 04 at 750 C, (d) Al 01 Ti 04 at 900 C, (e) Al 02 Ti 03 at 750 C, (f) Al 02 Ti 03 at 900 C, (g) Al 02 Ti 03 at 750 C, TEM bright field image, (h) Al 02 Ti 03 at 750 C, diffraction patterns.</figDesc><graphic coords="3,128.24,66.73,348.70,550.21" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. Microstructures after aging for 50 h (a) Al 01 Ti 04 at 1000 C (contains needle like h and particulate g 0 ), and (b) Al 05 at 900 C (brighter b phase precipitates).</figDesc><graphic coords="4,122.80,66.73,340.29,119.51" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 4 .</head><label>4</label><figDesc>Fig. 4. Differential thermal analysis of Al x Co 1.5 CrFeNi 1.5 Ti y with varying Al content in heating runs.</figDesc><graphic coords="4,35.89,358.70,245.01,202.28" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Fig. 5 .</head><label>5</label><figDesc>Fig. 5. (a) Mean size and (b) volume fraction of g 0 of samples subjected to ageing at 750 C, 800 C, and 900 C for 50 h.</figDesc><graphic coords="4,304.84,372.30,245.01,346.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Fig. 6 .</head><label>6</label><figDesc>Fig. 6. (a) Room temperature hardness values of samples aged at various temperatures for 50 h, and (b) high temperature hardness values at different temperatures.</figDesc><graphic coords="5,45.58,326.10,245.01,392.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>3. 4 .</head><label>4</label><figDesc>Fig.7(a) presents the weight gain during isothermal oxidation tests at 900 C for 200 h. Inconel 718 is a known chromia former<ref type="bibr" target="#b46">[45]</ref>, and has performed the best against oxidation comparing to other alloys in present study. The high entropy alloys can also exhibit certain degree of oxidation resistance with the formation of continuous chromia as shown in Fig.7(b); EDS mapping indicates the formation of a dense and continuous Cr 2 O 3 on the surface of Al 02 Ti 03 . The outermost oxides are iron oxide and titanium oxide mainly, and there are some internal oxidation of alumina beneath Cr 2 O 3 . The Al content can result in the "third element effect"<ref type="bibr" target="#b47">[46]</ref> to increase the Cr activity and promote the formation of protective Cr 2 O 3 . However, sluggish diffusion may result delayed formation of continues chromia layer, and high Ti content can also induce the formation of TiO 2 attributing to an increase in weight gain initially. Nevertheless, once continuous layer of Cr 2 O 3 is formed, the oxidation can be hindered in high entropy alloys. In future alloy design, Cr and Al activity should be considered for more rapid formation of protective oxides.</figDesc><graphic coords="6,108.00,66.73,369.83,374.40" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Composition of high entropy alloys in present study.</figDesc><table><row><cell>at%</cell><cell>Al</cell><cell>Co</cell><cell>Cr</cell><cell>Fe</cell><cell>Ni</cell><cell>Ti</cell><cell>g 0 /h Solvus ( C)</cell><cell>Solidus ( C)</cell><cell>DS mix</cell></row><row><cell>Ti 05</cell><cell>e</cell><cell>27.3</cell><cell>18.2</cell><cell>18.2</cell><cell>27.3</cell><cell>9.1</cell><cell>1093</cell><cell>1212</cell><cell>À1.547R</cell></row><row><cell>Al 01 Ti 04</cell><cell>1.8</cell><cell>27.3</cell><cell>18.2</cell><cell>18.2</cell><cell>27.3</cell><cell>7.3</cell><cell>1053</cell><cell>1242</cell><cell>À1.592R</cell></row><row><cell>Al 02 Ti 03</cell><cell>3.6</cell><cell>27.3</cell><cell>18.2</cell><cell>18.2</cell><cell>27.3</cell><cell>5.5</cell><cell>1010</cell><cell>1289</cell><cell>À1.608R</cell></row><row><cell>Al 03 Ti 02</cell><cell>5.5</cell><cell>27.3</cell><cell>18.2</cell><cell>18.2</cell><cell>27.3</cell><cell>3.6</cell><cell>970</cell><cell>1323</cell><cell>À1.608R</cell></row><row><cell>Al 05</cell><cell>9.1</cell><cell>27.3</cell><cell>18.2</cell><cell>18.2</cell><cell>27.3</cell><cell>e</cell><cell>e</cell><cell>1392</cell><cell>À1.547R</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Composition and mixing entropy of g and g 0 in all alloys after 750 C aging.</figDesc><table><row><cell>at%</cell><cell>Ti 05</cell><cell></cell><cell>Al 01 Ti 04</cell><cell></cell><cell>Al 02 Ti 03</cell><cell></cell><cell>Al 03 Ti 02</cell><cell></cell></row><row><cell></cell><cell>g</cell><cell>g 0</cell><cell>g</cell><cell>g 0</cell><cell>g</cell><cell>g 0</cell><cell>g</cell><cell>g 0</cell></row><row><cell>Al</cell><cell>e</cell><cell>e</cell><cell>0.8</cell><cell>1.3</cell><cell>2.6</cell><cell>6.9</cell><cell>3.6</cell><cell>10.7</cell></row><row><cell>Co</cell><cell>27.8</cell><cell>17.0</cell><cell>31.8</cell><cell>16.7</cell><cell>32.8</cell><cell>19.0</cell><cell>30.0</cell><cell>18.6</cell></row><row><cell>Cr</cell><cell>29.4</cell><cell>12.9</cell><cell>19.4</cell><cell>7.0</cell><cell>22.6</cell><cell>8.5</cell><cell>20.2</cell><cell>9.4</cell></row><row><cell>Fe</cell><cell>24.4</cell><cell>11.9</cell><cell>20.8</cell><cell>7.3</cell><cell>19.8</cell><cell>9.0</cell><cell>20.4</cell><cell>9.6</cell></row><row><cell>Ni</cell><cell>15.2</cell><cell>34.6</cell><cell>23.4</cell><cell>51.4</cell><cell>19.0</cell><cell>44.8</cell><cell>23.4</cell><cell>44.8</cell></row><row><cell>Ti</cell><cell>3.2</cell><cell>17.0</cell><cell>3.8</cell><cell>16.2</cell><cell>2.8</cell><cell>11.3</cell><cell>2.4</cell><cell>6.8</cell></row><row><cell>DS mix</cell><cell>À1.46R</cell><cell>À1.49R</cell><cell>À1.51R</cell><cell>À1.37R</cell><cell>À1.53R</cell><cell>À1.53R</cell><cell>À1.56R</cell><cell>À1.54R</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>Authors would like to thank the financial support from <rs type="funder">Ministry of Science and Technology, Taiwan (R.O.C.)</rs>, project grant number: <rs type="grantNumber">103-2221-E-214 -035</rs>, <rs type="grantNumber">103-2218-E-007 -019</rs>. Authors would like to thank <rs type="person">Dr Woei-Ren Wang</rs> of <rs type="affiliation">ITRI</rs> for assisting high temperature hardness tests, and <rs type="person">Prof. Jien-Wei Yeh</rs> for discussions about high entropy alloys.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_nxJgHf3">
+					<idno type="grant-number">103-2221-E-214 -035</idno>
+				</org>
+				<org type="funding" xml:id="_fvFV4kD">
+					<idno type="grant-number">103-2218-E-007 -019</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Sluggish diffusion in Co-Cr-Fe-Mn-Ni high-entropy alloys</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">Y</forename><surname>Tsai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Tsai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Yeh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Mater</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="4887" to="e4897" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">The influences of temperature and microstructure on the tensile properties of a CoCrFeMnNi high-entropy alloy</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Otto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dlouhý</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Somsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Eggeler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">P</forename><surname>George</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Mater</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="5743" to="e5755" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">A study of lattice elasticity from low entropy metals to medium and high entropy alloys</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Yeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>An</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Tu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scr. Mater</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Fig</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Oxidation weight gains at 900 C, and (b) SEM image and EDS mappings of the cross section of Al 02 Ti 03 alloy after 900 C/200 h oxidation</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page" from="32" to="e35" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">On the elemental effect of AlCoCrCuFeNi high-entropy alloy system</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Tung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Yeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Shun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Lett</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="1" to="e5" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Decomposition in multi-component AlCoCrCuFeNi high-entropy alloy</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Wanderka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Murty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Glatzel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Banhart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Mater</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="182" to="e190" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">On microstructure and mechanical performance of AlCoCrFeMo 0.5 Ni x highentropy alloys</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Juan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">Y</forename><surname>Hsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Tsai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Sheu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Yeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Intermetallics</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="401" to="e407" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">N</forename><surname>Senkov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Wilks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Miracle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Chuang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Liaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Refractory highentropy alloys</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="1758" to="e1765" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note>Intermetallics</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Mechanical properties of Nb 25 Mo 25 Ta 25 W 25 and V 20 Nb 20 Mo 20 Ta 20 W 20 refractory high entropy alloys</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">N</forename><surname>Senkov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Wilks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Miracle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Intermetallics</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="698" to="e706" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Microstructure and room temperature properties of a high-entropy TaNbHfZrTi alloy</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">N</forename><surname>Senkov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Senkova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Miracle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Woodward</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Alloys Compd</title>
+		<imprint>
+			<biblScope unit="volume">509</biblScope>
+			<biblScope unit="page" from="6043" to="e6048" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Effect of aluminum on the microstructure and properties of two refractory high-entropy alloys</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">N</forename><surname>Senkov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Senkova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Woodward</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Mater</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="214" to="e228" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Microstructure and elevated temperature properties of a refractory TaNbHfZrTi alloy</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">N</forename><surname>Senkov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Senkova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Meisenkothen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Miracle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Woodward</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mater Sci</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="4062" to="e4074" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Microstructure and wear behavior of Al x Co 1.5 CrFeNi 1.5 Ti y high-entropy alloys</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Chuang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Tsai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Yeh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Mater</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="6308" to="e6317" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Wear resistance and high-temperature compression strength of Fcc CuCoNiCrAl 0.5 Fe alloy with boron addition</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">Y</forename><surname>Hsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Yeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Shun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Metall. Mat. Trans. A</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="1465" to="e1469" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Microstructure and properties of age-hardenable Al x CrFe 1.5 MnNi 0.5 alloys</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">Y</forename><surname>Tang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">F</forename><surname>Kuo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Tsau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Shun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Yeh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Sci. Eng. A</title>
+		<imprint>
+			<biblScope unit="volume">527</biblScope>
+			<biblScope unit="page" from="5818" to="e5825" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Pitting corrosion of the high-entropy alloy Co 1.5 CrFeNi 1.5 Ti 0.5 Mo 0.1 in chloride-containing sulphate solutions</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">L</forename><surname>Chou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">C</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Yeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Shih</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Corros. Sci</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="3481" to="e3491" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Effect of the aluminium content of Al x CrFe 1.5 MnNi 0.5 high-entropy alloys on the corrosion behaviour in aqueous environments</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Yeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Shih</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Corros. Sci</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<date type="published" when="2008">2008. 2053e2060</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Prediction of high-entropy stabilized solid-solution in multi-component alloys</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Chem. Phys</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="page" from="233" to="e238" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Microstructure and mechanical property of as-cast, -homogenized, and -deformed Al x CoCrFeNi (0 x 2) highentropy alloys</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">F</forename><surname>Kao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Yeh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Alloys Compd</title>
+		<imprint>
+			<biblScope unit="volume">488</biblScope>
+			<biblScope unit="page" from="57" to="e64" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Phases, microstructure and mechanical properties of Al x CoCrFeNi high-entropy alloys at elevated temperatures</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Yeh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Alloys Compd</title>
+		<imprint>
+			<biblScope unit="volume">589</biblScope>
+			<biblScope unit="page" from="143" to="e152" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Effect of Nb addition on the microstructure and properties of AlCoCrFeNi high-entropy alloy</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Sci. Eng. A</title>
+		<imprint>
+			<biblScope unit="volume">532</biblScope>
+			<biblScope unit="page" from="480" to="e486" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Novel microstructure and properties of multicomponent CoCrCuFeNiTix alloys</title>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">F</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Qiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Intermetallics</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="357" to="e362" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Significant hardening due to the formation of a sigma phase matrix in a high entropy alloy</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Tsai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">Z</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Jian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Chuang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Juan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Yeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">T</forename><surname>Zhu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Intermetallics</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="81" to="e86" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Entropy-driven phase stability and slow diffusion kinetics in an Al 0.5 CoCrCuFeNi high entropy alloy</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Luan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Intermetallics</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="165" to="e172" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Deformation and annealing behaviors of high-entropy alloy Al 0.5 CoCrCuFeNi</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Tsai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">L</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Tsai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Yeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Shun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Alloys Compd</title>
+		<imprint>
+			<biblScope unit="volume">486</biblScope>
+			<biblScope unit="page" from="427" to="e435" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The effect of long-term thermal exposures on the microstructure and properties of CMSX-10 single crystal Ni-base superalloys</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">V</forename><surname>Acharya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Fuchs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Sci. Eng. A</title>
+		<imprint>
+			<biblScope unit="volume">381</biblScope>
+			<biblScope unit="page" from="143" to="e153" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Influence of TCP phase and its morphology on creep properties of single crystal nickel-based superalloys</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sugui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Minggang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Tang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Benjiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Jun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Sci. Eng. A</title>
+		<imprint>
+			<biblScope unit="volume">527</biblScope>
+			<biblScope unit="page" from="5444" to="e5451" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Rhenium additions to a Ni-base superalloy: effects on microstructure</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Giamei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Anton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">MTA</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<date type="published" when="1985">1985. 1997e2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Reed</surname></persName>
+		</author>
+		<title level="m">The Superalloys: Fundamentals and Applications</title>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The evolution of wrought age-hardenable superalloys</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Decker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JOM</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="32" to="e36" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Precipitation hardening</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Ardell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">MTA</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<date type="published" when="1985">1985. 2131e2165</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Heat treatment of UDIMET 720Li: the effect of microstructure on properties</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Jackson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Reed</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Sci. Eng. A</title>
+		<imprint>
+			<biblScope unit="volume">259</biblScope>
+			<biblScope unit="page" from="85" to="e97" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">On the solidification and phase stability of a Co-Cr-Fe-Ni-Ti High-entropy alloy</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Yeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">J</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Tsai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">C</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Yeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Kuo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Metall. Mat. Trans. A</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="184" to="e190" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">ETA (h) and platelet phases in investment cast superalloys</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">K</forename><surname>Bouse</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Structure</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">571</biblScope>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Yeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Gan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Chin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Shun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Tsau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Chang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Nanostructured high-entropy alloys with multiple principal elements: novel alloy design concepts and outcomes</title>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="299" to="e303" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Thermo-Calc &amp; DICTRA, computational tools for materials science</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">O</forename><surname>Andersson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Helander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>H€ Oglund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sundman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Calphad</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page">312</biblScope>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Solidification and Solid State Phase Transformation of Allvac® 718Plus™ alloy</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Cao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sixth International Special Emphasis Symposium on Superalloys</title>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="volume">718</biblScope>
+			<biblScope unit="page" from="165" to="e177" />
+		</imprint>
+	</monogr>
+	<note>706 and Derivatives</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Korth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Trybus</surname></persName>
+		</author>
+		<title level="m">Tensile Properties and Microstructure of Alloy 718 Thermally Aged to 50,000 h</title>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Long time stability of a wrought alloy 718 disk</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Radavich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Superalloy 718 Metall. Appl</title>
+		<imprint>
+			<biblScope unit="page" from="257" to="e268" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Strengthening mechanisms in g 0 hardened nickel base alloys</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Singhal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scr. Metall</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="959" to="e964" />
+			<date type="published" when="1971">1971</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">The influence of heat treatment conditions on gamma&apos;characteristics in Udimet (R) 720</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Monajati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jahazi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bahrami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yue</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Sci. Eng. astruct. Mater. Prop. Microstruct. process</title>
+		<imprint>
+			<biblScope unit="volume">373</biblScope>
+			<biblScope unit="page" from="286" to="e293" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Recent progress in high-entropy alloys</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Yeh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Chim. Sci. Mat</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="633" to="e648" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Developing new type of high temperature alloys e high entropy superalloys</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Yeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">K</forename><surname>Tsao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">J</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Yeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Chiou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Jian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Kuo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Murakami</surname></persName>
+		</author>
+		<idno type="DOI">10.15344/ijmme/2015/107</idno>
+		<ptr target="http://dx.doi.org/10.15344/ijmme/2015/107" />
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Metall. Mater Eng</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">107</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">On the antiphase boundary energy of Ni 3 (Al, Ti) particles</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Vittori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mignone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Sci. Eng</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="29" to="e37" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Zaddach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Niu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Koch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Irving</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mechanical Properties, Stacking Fault, Energies of NiFeCrCoMn high-entropy alloy</title>
+		<imprint>
+			<date type="published" when="2013">2013. 1780e1789</date>
+			<biblScope unit="volume">65</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">SEM-EDS and XPS studies of the high temperature oxidation behaviour of Inconel 718</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Delaunay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Berthier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lenglet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-M</forename><surname>Lameille</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mikrochim. Acta</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="page" from="337" to="e343" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Oxidation of Ni -Cr -Al Alloys Between 1000 and 1200 C</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Giggins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Pettit</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Electrochem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<date type="published" when="1971">1971. 1782e1790</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

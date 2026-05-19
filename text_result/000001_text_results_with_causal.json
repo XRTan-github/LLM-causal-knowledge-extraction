@@ -1,0 +1,539 @@
+[
+  {
+    "paper": {
+      "doi": "10.1016/j.jallcom.2015.09.042",
+      "title": "The evolution of microstructures and high temperature properties of AlxCo1.5CrFeNi1.5Tiy high entropy alloys",
+      "authors": [
+        "Yao-Jen Chang",
+        "An-Chou Yeh",
+        "K Tsai",
+        "M Tsai",
+        "J Yeh",
+        "F Otto",
+        "A Dlouhý",
+        "C Somsen",
+        "H Bei",
+        "G Eggeler",
+        "E George",
+        "E Huang",
+        "D Yu",
+        "J Yeh",
+        "C Lee",
+        "K An",
+        "S Tu",
+        "Fig",
+        "C Tung",
+        "J Yeh",
+        "T Shun",
+        "S Chen",
+        "Y Huang",
+        "H Chen",
+        "S Singh",
+        "N Wanderka",
+        "B Murty",
+        "U Glatzel",
+        "J Banhart",
+        "C Juan",
+        "C Hsu",
+        "C Tsai",
+        "W Wang",
+        "T Sheu",
+        "J Yeh",
+        "S Chen",
+        "O Senkov",
+        "G Wilks",
+        "D Miracle",
+        "C Chuang",
+        "P Liaw",
+        "O Senkov",
+        "G Wilks",
+        "J Scott",
+        "D Miracle",
+        "O Senkov",
+        "J Scott",
+        "S Senkova",
+        "D Miracle",
+        "C Woodward",
+        "O Senkov",
+        "S Senkova",
+        "C Woodward",
+        "O Senkov",
+        "J Scott",
+        "S Senkova",
+        "F Meisenkothen",
+        "D Miracle",
+        "C Woodward",
+        "M Chuang",
+        "M Tsai",
+        "W Wang",
+        "S Lin",
+        "J Yeh",
+        "C Hsu",
+        "J Yeh",
+        "S Chen",
+        "T Shun",
+        "S Chen",
+        "W Tang",
+        "Y Kuo",
+        "S Chen",
+        "C Tsau",
+        "T Shun",
+        "J Yeh",
+        "Y Chou",
+        "Y Wang",
+        "J Yeh",
+        "H Shih",
+        "C Lee",
+        "C Chang",
+        "Y Chen",
+        "J Yeh",
+        "H Shih",
+        "X Yang",
+        "Y Zhang",
+        "Y Kao",
+        "T Chen",
+        "S Chen",
+        "J Yeh",
+        "W Wang",
+        "W Wang",
+        "J Yeh",
+        "S Ma",
+        "Y Zhang",
+        "X Wang",
+        "Y Zhang",
+        "Y Qiao",
+        "G Chen",
+        "M Tsai",
+        "H Yuan",
+        "G Cheng",
+        "W Xu",
+        "W Jian",
+        "M Chuang",
+        "C Juan",
+        "A Yeh",
+        "S Lin",
+        "Y Zhu",
+        "C Ng",
+        "S Guo",
+        "J Luan",
+        "S Shi",
+        "C Liu",
+        "C Tsai",
+        "Y Chen",
+        "M Tsai",
+        "J Yeh",
+        "T Shun",
+        "S Chen",
+        "M Acharya",
+        "G Fuchs",
+        "T Sugui",
+        "W Minggang",
+        "L Tang",
+        "Q Benjiang",
+        "X Jun",
+        "A Giamei",
+        "D Anton",
+        "R Reed",
+        "R Decker",
+        "A Ardell",
+        "M Jackson",
+        "R Reed",
+        "A Yeh",
+        "Y Chang",
+        "C Tsai",
+        "Y Wang",
+        "J Yeh",
+        "C Kuo",
+        "G Bouse",
+        "J Yeh",
+        "S Chen",
+        "S Lin",
+        "J Gan",
+        "T Chin",
+        "T Shun",
+        "C Tsau",
+        "S Chang",
+        "J Andersson",
+        "T Helander",
+        "L H€ Oglund",
+        "P Shi",
+        "B Sundman",
+        "W Cao",
+        "G Korth",
+        "C Trybus",
+        "J Radavich",
+        "L Singhal",
+        "H Monajati",
+        "M Jahazi",
+        "R Bahrami",
+        "S Yue",
+        "J Yeh",
+        "A Yeh",
+        "T Tsao",
+        "Y Chang",
+        "K Chang",
+        "J Yeh",
+        "M Chiou",
+        "S Jian",
+        "C Kuo",
+        "W Wang",
+        "H Murakami",
+        "M Vittori",
+        "A Mignone",
+        "A Zaddach",
+        "C Niu",
+        "C Koch",
+        "D Irving",
+        "F Delaunay",
+        "C Berthier",
+        "M Lenglet",
+        "J.-M Lameille",
+        "C Giggins",
+        "F Pettit"
+      ],
+      "journal": "Journal of Alloys and Compounds",
+      "year": "2015-09-09",
+      "filename": "000001.xml"
+    },
+    "samples": [
+      {
+        "sample_label": "Ti05",
+        "composition_string": "Co1.5CrFeNi1.5Ti0.5",
+        "composition_elements": [
+          {
+            "element": "Al",
+            "amount": 0.0,
+            "text": "e"
+          },
+          {
+            "element": "Co",
+            "amount": 27.3,
+            "text": "27.3"
+          },
+          {
+            "element": "Cr",
+            "amount": 18.2,
+            "text": "18.2"
+          },
+          {
+            "element": "Fe",
+            "amount": 18.2,
+            "text": "18.2"
+          },
+          {
+            "element": "Ni",
+            "amount": 27.3,
+            "text": "27.3"
+          },
+          {
+            "element": "Ti",
+            "amount": 9.1,
+            "text": "9.1"
+          }
+        ],
+        "composition unit": "at%",
+        "nodes": [
+          {
+            "id": "PRC1",
+            "type": "processing",
+            "description": [
+              "Arc-melting in argon atmosphere",
+              "Solution heat treatment at 1150°C for 6h followed by water quench",
+              "Aging at 750°C for 50h"
+            ]
+          },
+          {
+            "id": "PRC2",
+            "type": "processing",
+            "description": [
+              "Aging at 900°C for 50h"
+            ]
+          },
+          {
+            "id": "S1",
+            "type": "structure",
+            "description": [
+              "γ (FCC) matrix"
+            ]
+          },
+          {
+            "id": "S2",
+            "type": "structure",
+            "description": [
+              "γ' precipitates (L1₂ structure)"
+            ]
+          },
+          {
+            "id": "S3",
+            "type": "structure",
+            "description": [
+              "η phase (plate-like)"
+            ]
+          },
+          {
+            "id": "P1",
+            "type": "property",
+            "description": [
+              "High hardness at room temperature"
+            ]
+          },
+          {
+            "id": "P2",
+            "type": "property",
+            "description": [
+              "Softening at 900°C"
+            ]
+          },
+          {
+            "id": "P3",
+            "type": "property",
+            "description": [
+              "High temperature hardness (500-1000°C)"
+            ]
+          },
+          {
+            "id": "P4",
+            "type": "property",
+            "description": [
+              "Oxidation resistance at 900°C"
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "source": "PRC1",
+            "target": "S1",
+            "via_mechanism": [
+              {
+                "name": "Dissolution",
+                "description": "Precipitates dissolve above solvus temperature (1093°C) to form single-phase γ matrix"
+              }
+            ]
+          },
+          {
+            "source": "PRC1",
+            "target": "S2",
+            "via_mechanism": [
+              {
+                "name": "Precipitation",
+                "description": "γ' phase precipitates coherently in γ matrix during aging at 750°C"
+              }
+            ]
+          },
+          {
+            "source": "PRC2",
+            "target": "S3",
+            "via_mechanism": [
+              {
+                "name": "Phase transformation",
+                "description": "Metastable γ' transforms to brittle η phase at 900°C due to sluggish diffusion"
+              }
+            ]
+          },
+          {
+            "source": "S2",
+            "target": "P1",
+            "via_mechanism": [
+              {
+                "name": "Precipitation strengthening",
+                "description": "γ' precipitates hinder dislocation motion, increasing hardness"
+              }
+            ]
+          },
+          {
+            "source": "S2",
+            "target": "P3",
+            "via_mechanism": [
+              {
+                "name": "Precipitation strengthening",
+                "description": "γ' precipitates remain stable during short-term high-temperature tests, hindering dislocation motion"
+              }
+            ]
+          },
+          {
+            "source": "S3",
+            "target": "P2",
+            "via_mechanism": [
+              {
+                "name": "Embrittlement",
+                "description": "Formation of brittle η phase reduces ductility and causes softening"
+              }
+            ]
+          },
+          {
+            "source": "S1",
+            "target": "P4",
+            "via_mechanism": [
+              {
+                "name": "Protective oxide formation",
+                "description": "Cr from γ matrix diffuses to surface and forms continuous Cr₂O₃ layer"
+              }
+            ]
+          },
+          {
+            "source": "S3",
+            "target": "P4",
+            "via_mechanism": [
+              {
+                "name": "Protective oxide formation",
+                "description": "Cr from η phase contributes to continuous Cr₂O₃ layer formation"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sample_label": "Al01Ti04",
+        "composition_string": "Al0.1Co1.5CrFeNi1.5Ti0.4",
+        "composition_elements": [
+          {
+            "element": "Al",
+            "amount": 1.8,
+            "text": "1.8"
+          },
+          {
+            "element": "Co",
+            "amount": 27.3,
+            "text": "27.3"
+          },
+          {
+            "element": "Cr",
+            "amount": 18.2,
+            "text": "18.2"
+          },
+          {
+            "element": "Fe",
+            "amount": 18.2,
+            "text": "18.2"
+          },
+          {
+            "element": "Ni",
+            "amount": 27.3,
+            "text": "27.3"
+          },
+          {
+            "element": "Ti",
+            "amount": 7.3,
+            "text": "7.3"
+          }
+        ],
+        "composition unit": "at%",
+        "nodes": [
+          {
+            "id": "PRC1",
+            "type": "processing",
+            "description": [
+              "arc-melting in argon atmosphere",
+              "solution heat treatment at 1150°C for 6h followed by water quench"
+            ]
+          },
+          {
+            "id": "PRC2",
+            "type": "processing",
+            "description": [
+              "aging at 750°C for 50h"
+            ]
+          },
+          {
+            "id": "PRC3",
+            "type": "processing",
+            "description": [
+              "aging at 900°C for 50h"
+            ]
+          },
+          {
+            "id": "S1",
+            "type": "structure",
+            "description": [
+              "γ matrix (FCC)",
+              "γ' precipitates (L1₂ structure)"
+            ]
+          },
+          {
+            "id": "P1",
+            "type": "property",
+            "description": [
+              "high hardness at room temperature"
+            ]
+          },
+          {
+            "id": "P2",
+            "type": "property",
+            "description": [
+              "high temperature hardness (500-1000°C)"
+            ]
+          },
+          {
+            "id": "P3",
+            "type": "property",
+            "description": [
+              "oxidation resistance at 900°C"
+            ]
+          }
+        ],
+        "edges": [
+          {
+            "source": "PRC1",
+            "target": "S1",
+            "via_mechanism": [
+              {
+                "name": "solution treatment",
+                "description": "dissolves precipitates to form single-phase γ matrix"
+              }
+            ]
+          },
+          {
+            "source": "PRC2",
+            "target": "S1",
+            "via_mechanism": [
+              {
+                "name": "precipitation hardening",
+                "description": "aging at 750°C precipitates γ' phase, resulting in γ and γ' structure"
+              }
+            ]
+          },
+          {
+            "source": "PRC3",
+            "target": "S1",
+            "via_mechanism": [
+              {
+                "name": "precipitation hardening",
+                "description": "aging at 900°C precipitates γ' phase, maintaining γ and γ' structure"
+              }
+            ]
+          },
+          {
+            "source": "S1",
+            "target": "P1",
+            "via_mechanism": [
+              {
+                "name": "precipitate strengthening",
+                "description": "γ' precipitates hinder dislocation motion"
+              }
+            ]
+          },
+          {
+            "source": "S1",
+            "target": "P2",
+            "via_mechanism": [
+              {
+                "name": "precipitate stability",
+                "description": "γ' precipitates resist coarsening and dissolution at high temperatures, hindering dislocation motion"
+              }
+            ]
+          },
+          {
+            "source": "S1",
+            "target": "P3",
+            "via_mechanism": [
+              {
+                "name": "protective oxide layer formation",
+                "description": "formation of continuous Cr₂O₃ layer due to high Cr activity and third element effect of Al"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
