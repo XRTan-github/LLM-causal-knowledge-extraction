@@ -78,7 +78,7 @@ Structured JSON Output
         ▼
 Knowledge Graph / Database
 ```
-
+# Disclaimer
 This repository features generalized prototypes and architectural workflows related to the manuscript 'Automated pipeline for causal knowledge extraction through LLM', currently under review at Npj Computational Materials. Core proprietary datasets and specialized weights are withheld pending publication.
 
-
+The full dataset is not publicly available at the current stage due to ongoing peer review. Following publication, the processed data supporting the findings of this study will be released in this repository. Prior to publication, data access may be granted upon reasonable request to the corresponding author, in accordance with institutional and journal data-sharing policies.
