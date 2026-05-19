@@ -1,6 +1,9 @@
 # LLM-causal-knowledge-extraction-system
 LLM Causal Knowledge Extraction System automatically extracts causal scientific knowledge from research papers using LLMs and ontology-guided pipelines. The framework converts unstructured literature into structured JSON and knowledge graphs for scientific reasoning, machine learning, and discovery workflows.
 
+<img width="2115" height="1171" alt="image" src="https://github.com/user-attachments/assets/54e98225-b610-41f4-8d21-fd25a1287f82" />
+
+
 ## Overview
 
 This project is a scientific literature understanding framework designed to automatically extract causal scientific knowledge from research papers and convert it into structured machine-readable representations.
